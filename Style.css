@@ -24,6 +24,10 @@
     --font-size-xxb-xxxb: 2.5rem; /* 32px */
     --font-size-xxxb: 3rem; /* 32px */
 }
+html{
+    background-color:var(--black);
+    
+}
 body{
     height: 100vh;
     background-color:var(--black);
@@ -324,4 +328,5 @@ margin-bottom: 10px;
         padding: 10px;
         margin: 0 1rem;
     }
+
 }
